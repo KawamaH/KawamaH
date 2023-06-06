@@ -10,7 +10,8 @@ Mi nombre es Juan Camilo Henao, soy de Colombia, y desde pequeño he tenido una 
 
 # Contáctame
 email: juanhenao1234@gmail.com
-número telefónico: 3122563361
+
+número telefónico: +57 3122563361
 
 
 
